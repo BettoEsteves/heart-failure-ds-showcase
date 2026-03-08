@@ -1,5 +1,21 @@
-# default-template-ai-projects
+# Project : Heart Failure ds Showcase 
+# Data Science Showcase Project: Heart Failure Analysis with Interactive Dashboard
+This project is a complete Data Science portfolio demonstrating essential skills: collection, exploratory analysis, pre-processing, modeling (classification and clustering), interpretability with SHAP and deploy in an interactive dashboard with Streamlit.
+The differential is in integrating multiple techniques into a single flow, with rich visualizations and a user-friendly interface for data exploration and results.
+________________________________________
+# 🧠 Demonstrated Skills
+• Data manipulation: pandas, numpy
+• Visualization: matplotlib, seaborn, plotly
+• Pre-processing: missing, scaling, encoding treatment
+• Modeling: logistic regression, random forest, XGBoosting (performance comparison)
+• Evaluation: metrics (accuracy, precision, recall, F1, ROC-AUC), confusion matrix, ROC curve
+• Clustering: K-Means, dimensional reduction with PCA
+• Interpretability: SHAP to explain individual predictions and global importance
+• Deploy: interactive application with Streamlit
+• Project organization: modular structure, reusable and documented
 
+
+# This project uses the template - default-template-ai-projects - GitHub : https://github.com/BettoEsteves/default-template-ai-projects
 <p align="center">
   <a href="#"><img alt="AI-First" src="https://img.shields.io/badge/AI--First-Template-7C3AED?style=for-the-badge"></a>
   <a href="#"><img alt="Governance" src="https://img.shields.io/badge/Governance-Required-2563EB?style=for-the-badge"></a>
